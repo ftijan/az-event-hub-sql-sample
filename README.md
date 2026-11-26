@@ -1,4 +1,4 @@
-# Azure Event Hub to SQL Server Sample
+# Azure Event Hubs to SQL Server Sample
 
 A local .NET Aspire sample application demonstrating a stock quote push pipeline across Azure Event Hubs and SQL Server (`GOOGL`, `MSFT`, `META`, and `AMZN`), including an ingestion/query API and a background persistence worker.
 
