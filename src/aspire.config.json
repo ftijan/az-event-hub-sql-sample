@@ -1,0 +1,5 @@
+{
+  "appHost": {
+    "path": "Example.EventHubToSql.AppHost/Example.EventHubToSql.AppHost.csproj"
+  }
+}
