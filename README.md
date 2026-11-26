@@ -1,1 +1,1 @@
-# az-event-bus-sql-sample
+# az-event-hub-sql-sample

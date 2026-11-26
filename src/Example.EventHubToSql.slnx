@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Example.Common/Example.Common.csproj" Id="b070c7e2-d2c3-4855-9041-2fa77cb759a5" />
+  <Project Path="Example.EventHubToSql.ApiService/Example.EventHubToSql.ApiService.csproj" />
+  <Project Path="Example.EventHubToSql.AppHost/Example.EventHubToSql.AppHost.csproj" />
+  <Project Path="Example.EventHubToSql.ServiceDefaults/Example.EventHubToSql.ServiceDefaults.csproj" />
+  <Project Path="Example.EventHubToSql.WorkerService/Example.EventHubToSql.WorkerService.csproj" />
+</Solution>
